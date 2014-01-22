@@ -9,3 +9,5 @@ A sample MSSQL database of students' profile and university preference from a fa
 
 I have provided here the zipped version of SQL script. Just the provided script in SQL Management Studio or you can easily modify the script to import into any other database like MySQL.
 
+Note:
+This database is only for getting an idea of admission trends and student profiles in recent years. There are no personal information in this database.
